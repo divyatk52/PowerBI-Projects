@@ -1,0 +1,116 @@
+
+# 📊 Amazon Review Analytics Dashboard
+---
+
+## 🚀 Project Overview
+
+The **Amazon Review Analytics Dashboard** is an interactive Power BI report designed to analyze product performance across multiple categories using customer ratings, reviews, pricing, and discount data.
+
+It enables users to uncover trends, identify top-performing products, and make data-driven decisions in the e-commerce domain.
+
+---
+
+## 🖼️ Dashboard Preview
+
+./AmazonProductReview.png
+
+---
+
+## 🎯 Objectives
+
+* Analyze **customer ratings and review patterns**
+* Identify **top-performing products**
+* Compare **pricing and discount strategies**
+* Explore **category-level insights**
+
+---
+
+## 📊 Key Metrics
+
+* 🛒 **Total Products:** 1349
+* ⭐ **Average Rating:** 4.0
+* 💬 **Total Reviews:** 27 Million
+* 💸 **Average Discount:** 48%
+* 📦 **Total Categories:** 9
+
+---
+
+## 🧰 Tech Stack
+
+* **Power BI Desktop** – Data visualization and dashboard creation
+* **Power Query** – Data cleaning and transformation
+* **DAX (Data Analysis Expressions)** – Measures and calculations
+* **Data Modeling** – Relationship building between tables
+* **Excel / CSV Dataset** – Source data
+
+---
+
+## 📂 Data Source
+
+* Amazon product review dataset (public dataset)
+* Contains:
+
+  * Product Name
+  * Category
+  * Ratings
+  * Review Count
+  * Price
+  * Discount Percentage
+
+---
+
+## ✨ Features
+
+* 📌 Interactive **filters (Category, Rating, Discount)**
+* 📊 KPI cards for quick insights
+* 📈 **Rating Distribution Analysis**
+* 🏆 **Top 10 Products by Reviews**
+* 📉 **Discount Analysis by Category**
+* 💰 **Average Price Comparison**
+* 📦 **Category-wise Product Distribution**
+
+---
+
+## 🔍 Key Insights
+
+* ⭐ Most products are rated around **4.0**, indicating high satisfaction
+* 📦 **Electronics & Home & Kitchen** dominate product listings
+* 💬 Review distribution is **highly skewed** (few products get most reviews)
+* 💸 Higher discounts observed in **Home Improvement & Computers**
+* 💰 **Electronics** have the highest average prices
+
+---
+
+## 💼 Business Value
+
+This dashboard helps:
+
+* Identify **high-demand products**
+* Optimize **pricing and discount strategies**
+* Understand **customer preferences**
+* Support **data-driven decision making**
+
+---
+
+## 🔮 Future Enhancements
+
+* 🤖 Sentiment Analysis on reviews
+* 📅 Time-series trend analysis
+* 🌍 Regional insights
+* 🔍 Drill-through detailed product pages
+
+---
+
+## 📎 How to Use
+
+1. Download the `.pbix` file from this repository
+2. Open in **Power BI Desktop**
+3. Interact with filters and visuals
+
+---
+
+## 👤 Author
+
+**Divya TK**
+ Data Analyst | Power BI | SQL | Excel | AWS | Databricks
+
